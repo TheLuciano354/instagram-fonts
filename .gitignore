@@ -1,0 +1,11 @@
+# Solo las fuentes y su documentación
+/*
+!/.gitignore
+!/README.md
+!/[A-Z]*/
+/[A-Z]*/*
+!/[A-Z]*/README.md
+!/[A-Z]*/*.otf
+!/[A-Z]*/*.ttf
+!/[A-Z]*/*.woff2
+!/[A-Z]*/*_muestra.png
